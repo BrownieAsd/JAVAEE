@@ -1,0 +1,31 @@
+    body{
+        background-image: url("photo1.jpg");
+        background-repeat:repeat;
+        }
+    .p1{
+        color:whitesmoke;
+        top: 0;
+        text-align: center;
+        font-family:Helvetica;
+        top:0%;
+        font-size: 30px;
+        }
+    .main{
+        background-color: lightblue;
+        opacity: 0.5;
+        text-align: center;
+        font-family:Helvetica;
+        border-top-left-radius:20px;
+        border-bottom-right-radius:20px;
+        border-top-right-radius:20px;
+        border-bottom-left-radius:20px;
+    }
+    a:link,a:visited {
+        text-decoration: none;
+        color:black;
+    }
+
+
+
+
+
